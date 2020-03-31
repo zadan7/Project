@@ -1,0 +1,55 @@
+*{
+	margin:0;
+	padding: 0;
+}
+header h1{
+	text-align: center;
+	border-bottom: 6px solid black;
+
+}
+
+#login-Form{
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 300px;
+	background-color: #eee;
+	padding: 8px;
+	border:4px solid black;
+	display: block;
+}
+form{
+	display: block;
+}
+ form h1{
+	text-align: center;
+	background-color: #152447;
+	color:#ffcffc;
+	padding: 2px;
+}
+#login-Form div{
+	text-align: center;
+	display: block;
+	padding: 10px;
+}
+
+button{
+	margin-left: 70%;
+	padding: 8px;
+	width: 70px;
+
+}
+ a{
+ 	margin-top: 25%;
+	
+
+
+
+}
+.null{
+  
+}
+@media (){
+
+}
